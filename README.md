@@ -77,8 +77,6 @@ Untuk fungsi-fungsi itu kayak CRUD aja yaa, gaperlu authentication. Jangan lupa 
 - The architecture used was kind of different with the one I created by myself on my 2nd assignent, therefore there was some readjusting needed for me
 
 ## Things I Learned
-By doing this assignment, I've started knowing more about Gin and GORM usage in programming using Golang. 
-<br>
-I also understand the capability and functionality of Gin and GORM to further make our works as a Golang Backend Programmer easier rather than using native Golang as the one used in the 2nd assignment.
-<br>
-Beside those, I also learned more about API and it's aspect where I started considering about the usage and always trying to improve the efficiency of it in every task.
+- By doing this assignment, I've started knowing more about Gin and GORM usage in programming using Golang. 
+- I've also understood more about the capability and functionality of Gin and GORM to further make our works as a Golang Backend Programmer easier rather than using native Golang as the one used in the 2nd assignment.
+- Beside those, I've also learned more about API and it's aspect to the point where I started considering about the usage and always trying to improve the efficiency of it in every task.
